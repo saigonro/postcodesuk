@@ -1,0 +1,12 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+postcodesuk/__init__.py
+postcodesuk/postcodesuk.py
+postcodesuk/test_postcodesuk.py
+postcodesuk.egg-info/PKG-INFO
+postcodesuk.egg-info/SOURCES.txt
+postcodesuk.egg-info/dependency_links.txt
+postcodesuk.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: postcodesuk
+Version: 0.0.1
+Summary: a pip-installable package that formats and validates post codes for UK
+Home-page: UNKNOWN
+Author: Dan Dumitrache
+Author-email: vietnamezul@gmail.com
+License: GNU General Public License
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: ~=3.3
